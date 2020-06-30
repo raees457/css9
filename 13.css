@@ -1,0 +1,56 @@
+div.box {
+    height: 300px;
+    width: 450px;
+    background-color: #bbbbaa;}
+    .p-1 {
+    height: 90%;
+    width: 90%;
+    background-color: #0088dd;}
+    td.description {
+        min-width: 450px;
+        max-width: 800px;
+        text-align: right;
+        padding: 5px;
+        margin: 0px;}
+        h2, p {
+            width: 400px;
+            font-size: 90%;
+            line-height: 1.2em;}
+            h2 {
+            color: #0088dd;
+            border-bottom: 1px solid #0088dd;}
+            p {
+            min-height: 10px;
+            max-height: 30px;}
+    
+            p.one {
+                overflow: hidden;}
+                p.two {
+                overflow: scroll;}
+                
+                .border-one {
+                    border-width: 2px;
+                border: aqua;
+                border-style: dotted;
+                
+                }
+                    .border-two {
+                    border-width: thick;
+                    border: aqua;
+                    border-style: dotted;
+                }
+                 .border-three {
+                    border-width: 1px 4px 12px 4px;
+                    border: aqua;
+                    border-style: outset;
+                }        
+                .p-one {
+                    border-style: groove;
+                    border-width: 40px:
+                        width: 300px;
+                        padding: 50px;
+                        border: 20px solid #0088dd;}
+                        .p-two{
+                                                border-style: groove;
+                        border-width: 100px;
+                    border-color: #bbbbaa #111111 #ee3e80 #0088dd;}

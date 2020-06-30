@@ -1,0 +1,123 @@
+BODY{
+    width: 800PX;
+    font-family: serif;
+    color: darkkhaki;
+}
+h1{
+    background-color: cyan;
+    padding: 20px;
+}
+p{
+    width: 500px;
+}
+.p-1{
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.p-2{
+    position: fixed;
+top:100px;
+left: 1000px;
+padding: 10px;
+margin: 0px;
+width: 1000px;
+background-color: darkorange;
+}
+blockquote{
+    
+        float: right;
+        width: 270px;
+        font-size: 130%;
+        font-style: italic;
+        font-family: Georgia, Times, serif;
+        margin: 0px 0px 10px 10px;
+        padding: 10px;
+        border-top: 1px solid #665544;
+        border-bottom: 1px solid #665544;}
+
+
+        h1 {
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            margin: 0px;
+            padding: 10px;
+            width: 100%;
+            background-color: #efefef;
+            z-index: 10;}
+            p {
+            position: relative;
+            top: 70px;
+            left: 70px;}
+
+            
+              
+                div {
+                    border: 1px solid #665544;}
+
+                    div {
+                        border: 1px solid #665544;
+                        overflow: auto;
+                        width: 100%;}
+
+                        .column1of2 {
+                            float: left;
+                            width: 620px;
+                            margin: 10px;}
+                            .column2of2 {
+                            float: left;
+                            width: 300px;
+                            margin: 10px;}
+                                   body {
+                                    width: 960px;
+                                    margin: 0 auto;}
+                                    #content {
+                                    overflow: auto;
+                                    height: 100%;}
+                                    #nav, #feature, #footer {
+                                    background-color: #efefef;
+                                    padding: 10px;
+                                    margin: 10px;}
+                                    .one-1, .one-2, .one-3 {
+                                    background-color: #efefef;
+                                    width: 300px;
+                                    float: left;
+                                    margin: 10px;}
+                                    li {
+                                    display: inline;
+                                    padding: 5px;
+                               }
+
+                               body {
+                                width: 90%;
+                                margin: 0 auto;}
+                                #content {overflow: auto;}
+                                #nav, #feature, #footer {
+                                margin: 1%;}
+                                .column1, .column2, .column3 {
+                                width: 31.3%;
+                                float: left;
+                                margin: 1%;}
+                                .column3 {margin-right: 0%;}
+                                li {
+                                display: inline;
+                                padding: 0.5em;}
+                                #nav, #footer {
+                                background-color: #efefef;
+                                padding: 0.5em 0;}
+                                #feature, .article {
+                                height: 10em;
+                                margin-bottom: 1em;
+                                background-color:aqua ;}
+
+
+
+
+
+
+
+
+
+
+
